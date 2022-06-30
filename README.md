@@ -26,6 +26,6 @@ RETURNS varchar
 LAMBDA 's3_udf'
 select s3union(a) from (select 'hello' as a)
 
-
 ```
+![](https://pcmyp.oss-accelerate.aliyuncs.com/markdown/Athena.png)
 
